@@ -21,7 +21,13 @@ body {
   text-align: left;
   background-color: #eee;
 }
+.container .page-header{
+  color: green;
+}
 
+div section{
+  color: blue;
+}
 section {
     margin: 3em 0;
 }
